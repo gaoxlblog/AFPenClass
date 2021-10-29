@@ -1,0 +1,3 @@
+include ':AFPen'
+include ':app'
+rootProject.name = "AFPenClass"
