@@ -23,6 +23,7 @@ public class PenClientCtrl implements IAFPenMsgListener//,IAFPenOfflineDataListe
 
 	private Context context;
 
+
     public String lastTryConnectAddr;
     public String lastTryConnectName;
     public int lastDotsCount;
