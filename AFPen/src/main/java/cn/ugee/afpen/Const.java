@@ -4,6 +4,7 @@ public class Const
 {
 	public class Broadcast
 	{
+
 		public static final String PEN_ADDRESS = "pen_address";
         public static final String PEN_NAME = "pen_NAME";
 		public static final String ACTION_PEN_MESSAGE = "action_pen_message";
